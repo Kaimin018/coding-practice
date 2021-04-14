@@ -1,2 +1,3 @@
 # coding-practice
-Practice the coding ability.
+Practice my coding ability.
+The website including uva, leetcode and hackerrank.
